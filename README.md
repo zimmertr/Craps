@@ -2,6 +2,8 @@
 
 Craps is a recreation of the popular dice game in JAVA.
 
+![Alt text](https://raw.githubusercontent.com/zimmertr/Craps-Game/master/screenshot.png "Craps")
+
 ```
 - User starts with 10 credits
 - Player rolls the dice over and over until they either win or lose
@@ -12,5 +14,3 @@ Craps is a recreation of the popular dice game in JAVA.
 - Player continue to roll until the point is rolled a second time (Awarding the player another credit) or a 7 is rolled (The player loses a credit). 
 - New turn is started when the player runs out of credits or chooses to start a new game. 
 ```
-
-![Alt text](https://raw.githubusercontent.com/zimmertr/Craps-Game/master/screenshot.png "Craps")
