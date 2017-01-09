@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=GUI()
+comment0.text=\r\n\ This\ method\ creates\ and\ places\ all\ of\ the\ labels\ and\ buttons.\r\n\ It\ also\ starts\ the\ actionlisteners\ for\ the\ buttons\ and\ colors\ \r\n\ in\ the\ background\ of\ the\ panel\ while\ sizing\ it\ appropreitly.\ \r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ This\ main\ method\ is\ meant\ to\ test\ the\ gui\ to\ make\ sure\ it\ is\ \r\n\ functioning\ correctly\ and\ according\ the\ logic\ stated\ above.\r\n
+numComments=2
