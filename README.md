@@ -1,4 +1,4 @@
-#Craps
+# Craps
 
 Craps is a recreation of the popular dice game in JAVA.
 
